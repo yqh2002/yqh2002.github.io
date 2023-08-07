@@ -2,10 +2,9 @@
 layout: post
 title:  "My dear baobao"
 date:   2023-08-07 20:48:49
-categories: Jekyll Update  
-tags: Jekyll Update  
+categories: Yin  
+tags: Yin 
 ---
-
 包包，也许是最后一次给你这么发消息了，虽然可能你不会回复我，但是我还是想给你说说。
 
 
